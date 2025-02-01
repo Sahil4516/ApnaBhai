@@ -18,9 +18,9 @@ loop = asyncio.get_event_loop()
 
 TOKEN = '7568767273:AAE7EQSJQD-bQECwc0nWJUcfKaL9iShsFy8'     # bot token dalo yahha 
 MONGO_URI = 'mongodb+srv://Bishal:Bishal@bishal.dffybpx.mongodb.net/?retryWrites=true&w=majority&appName=Bishal'
-FORWARD_CHANNEL_ID = -1002488529857          #telegram mai group bana ke chat id dalo      
-CHANNEL_ID = -1002488529857                      #telegram mai group bana ke chat id dalo      
-error_channel_id = -1002488529857                #telegram mai group bana ke chat id dalo      
+FORWARD_CHANNEL_ID = -7342645959          #telegram mai group bana ke chat id dalo      
+CHANNEL_ID = -7342645959                      #telegram mai group bana ke chat id dalo      
+error_channel_id = -7342645959                #telegram mai group bana ke chat id dalo      
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
